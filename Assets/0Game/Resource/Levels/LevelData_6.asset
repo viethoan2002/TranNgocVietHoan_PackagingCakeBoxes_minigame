@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ff93c8cf87d48246b77a8f5eb1432b1, type: 3}
+  m_Name: LevelData_6
+  m_EditorClassIdentifier: 
+  indexLevel: 6
+  isLock: 0
+  starLevel: 0
+  prefLevel: {fileID: 6753570485740953603, guid: 0d989a9f1c1767745bd702caf4f6c682, type: 3}
+  cakePos:
+  - {x: 0.5, y: -2, z: 0}
+  candyPos:
+  - {x: 1.5, y: -2, z: 0}
+  - {x: -0.5, y: 1, z: 0}
+  - {x: 1.5, y: 0, z: 0}
+  boxPos:
+  - {x: 1.5, y: -1, z: 0}
